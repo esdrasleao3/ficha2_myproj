@@ -1,1 +1,7 @@
+<<<<<<< HEAD
+
+
+alterações efetuadas no branch NOVAFEATURE
+=======
 Alteração no branch MASTER
+>>>>>>> master
