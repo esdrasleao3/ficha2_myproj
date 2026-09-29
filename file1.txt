@@ -1,6 +1,1 @@
-
-
-
-
-
-Fiz uma alteração dentro do ficheiro
+Alterações efetuadas no branch NovaFeature
